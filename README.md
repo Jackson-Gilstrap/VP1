@@ -1,6 +1,6 @@
 Vita Reservation System 
 
-Description - A premliminary system for the Hartwick VITA tax service provided on and off campus.
+Description - A preliminary system for the Hartwick VITA tax service provided on and off campus.
 
 Languages - Javascript, postgresSQL
 
